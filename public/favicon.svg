@@ -1,0 +1,15 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="16" cy="16" r="15" fill="#3b82f6" opacity="0.1"/>
+  
+  <!-- Main circle -->
+  <circle cx="16" cy="16" r="12" fill="#3b82f6" stroke="#1e40af" stroke-width="1"/>
+  
+  <!-- Cross symbol (medical) -->
+  <rect x="13" y="9" width="6" height="2" rx="1" fill="white"/>
+  <rect x="14.5" y="7.5" width="2" height="6" rx="1" fill="white"/>
+  
+  <!-- Heart symbol -->
+  <path d="M16 22 Q16 20 14 18 Q12 16 10 18 Q8 20 8 22 Q8 24 10 26 Q12 28 16 30 Q20 28 22 26 Q24 24 24 22 Q24 20 22 18 Q20 16 18 18 Q16 20 16 22" 
+        fill="#ef4444" opacity="0.8"/>
+</svg> 
